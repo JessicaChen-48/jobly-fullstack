@@ -1,0 +1,3 @@
+[submodule "react-jobly"]
+	path = react-jobly
+	url = https://github.com/JessicaChen-48/react-jobly
